@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'IranSans';
+    font-style: normal;
+    font-weight: 400;
+    src:  url('/assets/fonts/IRANSansX-Regular.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'IranSans';
+    font-style: normal;
+    font-weight: 700;
+    src:  url('/assets/fonts/IRANSansX-Bold.woff') format('woff');
+  }
+  body,button{
+    font-family: "IranSans";
+}
